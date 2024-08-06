@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1,India Match English
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+
+#EXTINF:-1,India Match Hindi
+https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+
+#EXTINF:-1,India Match Tamil & Telugu
+https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
+
+#EXTINF:-1,WWE
+https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
+
+#EXTINF:-1,Hundred League Men's
+https://dai.google.com/linear/hls/event/JzJjKcPeRreYWTFneW0Btg/master.m3u8
+
+#EXTINF:-1,Hundred League Women's
+https://dai.google.com/linear/hls/event/aHpjRb9ISoGHa736nfypng/master.m3u8
+
+#EXTINF:-1,GT20 Canada
+https://dai.google.com/linear/hls/event/fen9ubVpQH2_zjiM4zLglg/master.m3u8
